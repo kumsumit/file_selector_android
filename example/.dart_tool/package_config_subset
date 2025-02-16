@@ -1,3 +1,11 @@
+file_selector_platform_interface
+3.1
+file:///home/sumit/.pub-cache/git/file_selector_platform_interface-c72b7daf98a78d46248074eadcd6a7d5baf90b38/
+file:///home/sumit/.pub-cache/git/file_selector_platform_interface-c72b7daf98a78d46248074eadcd6a7d5baf90b38/lib/
+plugin_platform_interface
+3.1
+file:///home/sumit/.pub-cache/git/plugin_platform_interface-3f77202a425698dc76188933bde3738a0df4b21e/
+file:///home/sumit/.pub-cache/git/plugin_platform_interface-3f77202a425698dc76188933bde3738a0df4b21e/lib/
 async
 2.18
 file:///home/sumit/.pub-cache/hosted/pub.dev/async-2.11.0/
@@ -34,10 +42,6 @@ file
 2.12
 file:///home/sumit/.pub-cache/hosted/pub.dev/file-6.1.4/
 file:///home/sumit/.pub-cache/hosted/pub.dev/file-6.1.4/lib/
-file_selector_platform_interface
-2.19
-file:///home/sumit/.pub-cache/hosted/pub.dev/file_selector_platform_interface-2.6.1/
-file:///home/sumit/.pub-cache/hosted/pub.dev/file_selector_platform_interface-2.6.1/lib/
 http
 3.0
 file:///home/sumit/.pub-cache/hosted/pub.dev/http-1.1.0/
@@ -70,10 +74,6 @@ platform
 2.12
 file:///home/sumit/.pub-cache/hosted/pub.dev/platform-3.1.0/
 file:///home/sumit/.pub-cache/hosted/pub.dev/platform-3.1.0/lib/
-plugin_platform_interface
-2.19
-file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6/
-file:///home/sumit/.pub-cache/hosted/pub.dev/plugin_platform_interface-2.1.6/lib/
 process
 2.14
 file:///home/sumit/.pub-cache/hosted/pub.dev/process-4.2.4/
@@ -127,11 +127,11 @@ webdriver
 file:///home/sumit/.pub-cache/hosted/pub.dev/webdriver-3.0.2/
 file:///home/sumit/.pub-cache/hosted/pub.dev/webdriver-3.0.2/lib/
 file_selector_android
-2.19
+3.1
 file:///home/sumit/StudioProjects/packages/packages/file_selector/file_selector_android/
 file:///home/sumit/StudioProjects/packages/packages/file_selector/file_selector_android/lib/
 file_selector_android_example
-2.19
+3.1
 file:///home/sumit/StudioProjects/packages/packages/file_selector/file_selector_android/example/
 file:///home/sumit/StudioProjects/packages/packages/file_selector/file_selector_android/example/lib/
 sky_engine
